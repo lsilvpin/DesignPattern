@@ -1,0 +1,12 @@
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\bin\Debug\netcoreapp3.1\DesignPattern.Data.deps.json
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\bin\Debug\netcoreapp3.1\DesignPattern.Data.dll
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\bin\Debug\netcoreapp3.1\DesignPattern.Data.pdb
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\obj\Debug\netcoreapp3.1\DesignPattern.Data.csprojAssemblyReference.cache
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\obj\Debug\netcoreapp3.1\DesignPattern.Data.AssemblyInfoInputs.cache
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\obj\Debug\netcoreapp3.1\DesignPattern.Data.AssemblyInfo.cs
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\obj\Debug\netcoreapp3.1\DesignPattern.Data.dll
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\obj\Debug\netcoreapp3.1\DesignPattern.Data.pdb
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\bin\Debug\netcoreapp3.1\DesignPattern.Domain.dll
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\bin\Debug\netcoreapp3.1\DesignPattern.Domain.pdb
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\obj\Debug\netcoreapp3.1\DesignPattern.Data.csproj.CopyComplete
+C:\Users\lsilvpin\source\repos\DesignPattern\DesignPattern.Data\obj\Debug\netcoreapp3.1\DesignPattern.Data.csproj.CoreCompileInputs.cache

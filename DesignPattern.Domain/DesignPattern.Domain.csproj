@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\DataModels\" />
+    <Folder Include="Interfaces\CoreModels\" />
+    <Folder Include="Interfaces\ApiModels\" />
+    <Folder Include="Standards\DataModels\" />
+    <Folder Include="Standards\Enums\" />
+    <Folder Include="Standards\ApiModels\" />
+    <Folder Include="Standards\CoreModels\" />
+    <Folder Include="Standards\Structs\" />
+  </ItemGroup>
+
+</Project>
